@@ -17,4 +17,4 @@ Dash to Dock settings are in images
 - Events
 - World Clock
 
-Above should be disabled.
+Above should be disabled. Original Orchis GTK: https://github.com/vinceliuice/Orchis-theme
