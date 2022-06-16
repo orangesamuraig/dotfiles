@@ -1,4 +1,4 @@
-# Dotfiles
+# GNOME Dotfiles
 
 *Extensions*
 - Dash to Dock For Cosmic (https://extensions.gnome.org/extension/5004/dash-to-dock-for-cosmic/)
