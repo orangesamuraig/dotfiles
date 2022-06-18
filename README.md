@@ -13,7 +13,6 @@ Dash to Dock settings are in images
 *Just Perfection*
 - Ripple Box
 - Workspace Switcher
-- Workspace Popup
 - Events
 - World Clock
 
